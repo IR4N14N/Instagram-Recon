@@ -5,5 +5,5 @@ It can be used to get the data of public accounts as well as Private accounts li
 
 #Installation and Usage (python 3)
 
-pip install -r requrements.txt
+pip install -r requrements.txt <br />
 python InstaRecon.py 
